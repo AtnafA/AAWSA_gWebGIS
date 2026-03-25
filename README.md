@@ -2,3 +2,11 @@ AAWSA_gDB is a modular and integrated WebGIS java application which is designed 
 ![AAWSA_gDB Architecture](https://github.com/user-attachments/assets/cf8cac27-677f-4f25-9193-730e1e5fb25b)
 The system has four components (distinct layers) such as Presentation Layer (user interface), Service Layer, Data Access Layer (DAL) and Centralized Groundwater Database Server (AAWSA-gDB). The presentation layer holds components such as a login page, output module, and input module. The service layer implements functions such as connection refuse and permit. The data access layer (DAL) implements model object that contains modules such as data processing, analysis, and common service modules. The fourth layer, AAWSA-gDB database repository is designed using optimized and normalized relational database query. 
 This too is developed by https://github.com/AtnafA and his team, powered by Ethiopian Engineering Corporatiion(EEC), and financed by Addis Ababa Water and Swerage Authority (AAWSA) and hosted in AAWSA to manage groundwater data of Addis Ababa and surrounding Oromia region. This initiative (tool) addresses water management challenges, as AAWSA relies on over 100 deep/shallow wells for 67.9% of its daily water production, primarily from the region
+AAWSA_gDB Purpose: The system, LinkedIn post (AAWSA_gDB) or similar, is designed to support the management of groundwater, which has become crucial as the city relies heavily on over 100 operational deep and shallow wells.
+Source Dependency: Groundwater sources contribute roughly 413,000 
+ of the total 608,000 
+ daily water supply, accounting for 67.9% of the total, making efficient data management vital.
+Context: The system is implemented amidst challenges with dwindling water supply, requiring monitoring of aquifers to meet demand, which is projected to increase to over 1 million 
+
+ by 2029.
+Capacity Building: The project is part of a broader effort involving the World Bank and other stakeholders to develop a, Water Ethiopia document strategic framework for managed groundwater development in the Greater Addis Ababa
