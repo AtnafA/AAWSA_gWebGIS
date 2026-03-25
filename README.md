@@ -6,6 +6,7 @@ __AAWSA_gDB Purpose:__ The system is implemented to support groundwater manageme
 __Source Dependency:__ Groundwater sources contribute roughly 413,000 of the total 608,000 daily water supply, accounting for 67.9% of the total, making efficient data management vital.
 __Context:__ The system is implemented amidst challenges with dwindling water supply, requiring monitoring of aquifers to meet demand, which is projected to increase to over 1 million by 2029.
 __Capacity Building:__ The project is part of a broader effort involving different stakeholders to develop a, Water Ethiopia document strategic framework for managed groundwater development in the Greater Addis Ababa.
+
 __Project Outputs:__
 The AAWSA_gDB data access interface provides (Figure Below): Groundwater information basemap (water well data layer), Water chemistry basemap (water quality data layer), Custom Map Layer  and Report generation function. The module provides an integrated interactive single window WebGIS interface that utilized Web technology to access spatial and non-spatial data from database and publish groundwater location and its information over WebGIS map layer. Moreover, the module also provides various well information, water quality data and Custom Map Layer (User demand based processed map layer) through interactive visualization map interface. This module serves as decision-support tools for a wide range of stakeholders in AAWSA, from managers, decision makers to water management professionals.
 <img width="1513" height="560" alt="image" src="https://github.com/user-attachments/assets/a0e6cc8e-2b73-42da-9829-5de655f24132" />
@@ -14,7 +15,7 @@ __Water Well Data Layer:__
 <img width="1226" height="765" alt="image" src="https://github.com/user-attachments/assets/937c5dd3-580c-49e1-a158-6523f0728dc1" />
 
 __Water Quality Data Layer__
-<img width="1250" height="569" alt="image" src="https://github.com/user-attachments/assets/9ff4b098-6176-4414-876b-b4b968b46a5c" />
+<img width="1397" height="867" alt="WaterQualityData" src="https://github.com/user-attachments/assets/f7540aee-4abc-4f12-b061-dfba019964b9" />
 
 __Custom Map Layer__
 <img width="1079" height="695" alt="image" src="https://github.com/user-attachments/assets/3ae69f6c-8516-4be9-addd-3eb677c16325" />
